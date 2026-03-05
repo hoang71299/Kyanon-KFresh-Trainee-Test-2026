@@ -3,7 +3,7 @@
    -tao file vao code vào thu mục mới vào tạo
    -mở laragon bấm start để khởi động apache
    -để chạy php thì vào trình duyệt gõ localhost/tên_thư_mục_mới_tạo/tên_file_moi_tạo.php
-2. Mô tả
+2. Mô tả \n
    -Tạo class Product
    +Khai báo các thuộc tính của sản phẩm gồm: id, name, price, category.
    +Viết constructor để khởi tạo giá trị ban đầu cho các thuộc tính.
